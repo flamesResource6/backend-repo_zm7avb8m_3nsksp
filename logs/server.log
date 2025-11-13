@@ -1,2 +1,1 @@
-INFO:     Will watch for changes in these directories: ['/home/workspace']
-ERROR:    [Errno 98] Address already in use
+nohup: failed to run command 'uvicorn': No such file or directory
